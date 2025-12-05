@@ -16,3 +16,8 @@ Photo of the mouse
 <img width="749" height="268" alt="image" src="https://github.com/user-attachments/assets/e735c8da-6cad-4b09-91ef-6af22c0baf20" />
 
 Photo of the mouse inside transparent
+
+BOM:
+Bambu Lab Mouse Kit 1x - $10.4
+
+3D Parts Part 22 1x - $5
