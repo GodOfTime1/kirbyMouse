@@ -18,6 +18,8 @@ Photo of the mouse
 Photo of the mouse inside transparent
 
 BOM:
-Bambu Lab Mouse Kit 1x - $10.4
+
+Bambu Lab Mouse Kit 1x - $10.4 sale for now originally $13
 
 3D Parts Part 22 1x - $5
+
