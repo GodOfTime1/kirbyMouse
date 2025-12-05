@@ -1,7 +1,7 @@
 # kirbyMouse
 A guided mouse with a little Kirby engraving because kirby is cute.
 
-The mouse was created with an assistive guide for the design. It has the basic functions of a mouse with a scroll button, left click, and a right click. The design process was to first make the outside casing. When, that was finished I moved on to making the slits and supports to interact with the mouse button. Lastly, I made the support for the base to the cover of the mouse. After, to add my own personal touch, I put one of my favorite characters on the mouse Kirby and made sure the remove feature didn't take too much that it could lead to discomfort.
+The mouse was created with an assistive guide for the design. It has the basic functions of a mouse with a scroll button, left click, and a right click. The design process was to first make the outside casing. When, that was finished I moved on to making the slits and supports to interact with the mouse button. Lastly, I made the support for the base to the cover of the mouse. After, to add my own personal touch, I put one of my favorite characters on the mouse Kirby and made sure the remove feature didn't take too much that it could lead to discomfort. Overall, the mouse is not only cheap but is nice to have for some practice and learning how mouses work.
 
 Photos:
 
